@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "435b876fd4b83c2efbf9039b13ecc289",
+    "revision": "61657d5dd6dda2b2681296ceced382b6",
     "url": "/halloween2020/index.html"
   },
   {
-    "revision": "f0eedf2a376bcf4bdb67",
-    "url": "/halloween2020/static/css/2.dbe0a775.chunk.css"
+    "revision": "2dd2cf13cf144d514768",
+    "url": "/halloween2020/static/css/2.8356a6db.chunk.css"
   },
   {
-    "revision": "a405c44506252d89a819",
-    "url": "/halloween2020/static/css/main.69c406f0.chunk.css"
+    "revision": "32f32588efdc854c0ec2",
+    "url": "/halloween2020/static/css/main.186dd410.chunk.css"
   },
   {
-    "revision": "f0eedf2a376bcf4bdb67",
-    "url": "/halloween2020/static/js/2.b580f84a.chunk.js"
+    "revision": "2dd2cf13cf144d514768",
+    "url": "/halloween2020/static/js/2.a24e54d2.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/halloween2020/static/js/2.b580f84a.chunk.js.LICENSE.txt"
+    "url": "/halloween2020/static/js/2.a24e54d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a405c44506252d89a819",
-    "url": "/halloween2020/static/js/main.d1841eb1.chunk.js"
+    "revision": "32f32588efdc854c0ec2",
+    "url": "/halloween2020/static/js/main.5a819092.chunk.js"
   },
   {
     "revision": "9234e0c99832c50b045b",
@@ -90,5 +90,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/halloween2020/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "04bc4d705769d1b9b2eae335871bbb7d",
+    "url": "/halloween2020/static/media/youmurdererbb_reg.04bc4d70.ttf"
   }
 ]);
