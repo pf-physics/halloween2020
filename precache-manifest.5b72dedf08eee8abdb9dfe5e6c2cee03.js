@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61657d5dd6dda2b2681296ceced382b6",
+    "revision": "3c638666dd09f07cf6fff18deaabaac2",
     "url": "/halloween2020/index.html"
   },
   {
-    "revision": "2dd2cf13cf144d514768",
+    "revision": "1bd156ffc1f89a21a575",
     "url": "/halloween2020/static/css/2.8356a6db.chunk.css"
   },
   {
-    "revision": "32f32588efdc854c0ec2",
-    "url": "/halloween2020/static/css/main.186dd410.chunk.css"
+    "revision": "cd6c868c066e278058b0",
+    "url": "/halloween2020/static/css/main.bf832275.chunk.css"
   },
   {
-    "revision": "2dd2cf13cf144d514768",
-    "url": "/halloween2020/static/js/2.a24e54d2.chunk.js"
+    "revision": "1bd156ffc1f89a21a575",
+    "url": "/halloween2020/static/js/2.1591f922.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/halloween2020/static/js/2.a24e54d2.chunk.js.LICENSE.txt"
+    "url": "/halloween2020/static/js/2.1591f922.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32f32588efdc854c0ec2",
-    "url": "/halloween2020/static/js/main.5a819092.chunk.js"
+    "revision": "cd6c868c066e278058b0",
+    "url": "/halloween2020/static/js/main.51ddabe8.chunk.js"
   },
   {
     "revision": "9234e0c99832c50b045b",
     "url": "/halloween2020/static/js/runtime-main.27484d17.js"
+  },
+  {
+    "revision": "8910d09c871fcdd943df3a68bf676a56",
+    "url": "/halloween2020/static/media/PhantomFingers.8910d09c.ttf"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
