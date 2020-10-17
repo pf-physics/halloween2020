@@ -1,27 +1,36 @@
 {
   "files": {
-    "main.css": "/halloween2020/static/css/main.bf832275.chunk.css",
-    "main.js": "/halloween2020/static/js/main.51ddabe8.chunk.js",
-    "main.js.map": "/halloween2020/static/js/main.51ddabe8.chunk.js.map",
+    "main.css": "/halloween2020/static/css/main.5468bf1a.chunk.css",
+    "main.js": "/halloween2020/static/js/main.9005d354.chunk.js",
+    "main.js.map": "/halloween2020/static/js/main.9005d354.chunk.js.map",
     "runtime-main.js": "/halloween2020/static/js/runtime-main.27484d17.js",
     "runtime-main.js.map": "/halloween2020/static/js/runtime-main.27484d17.js.map",
-    "static/css/2.8356a6db.chunk.css": "/halloween2020/static/css/2.8356a6db.chunk.css",
-    "static/js/2.1591f922.chunk.js": "/halloween2020/static/js/2.1591f922.chunk.js",
-    "static/js/2.1591f922.chunk.js.map": "/halloween2020/static/js/2.1591f922.chunk.js.map",
+    "static/css/2.76fddd1f.chunk.css": "/halloween2020/static/css/2.76fddd1f.chunk.css",
+    "static/js/2.620bcb03.chunk.js": "/halloween2020/static/js/2.620bcb03.chunk.js",
+    "static/js/2.620bcb03.chunk.js.map": "/halloween2020/static/js/2.620bcb03.chunk.js.map",
     "index.html": "/halloween2020/index.html",
-    "precache-manifest.5b72dedf08eee8abdb9dfe5e6c2cee03.js": "/halloween2020/precache-manifest.5b72dedf08eee8abdb9dfe5e6c2cee03.js",
+    "precache-manifest.23ba5f0527134234bfd59cc85e5b34f7.js": "/halloween2020/precache-manifest.23ba5f0527134234bfd59cc85e5b34f7.js",
     "service-worker.js": "/halloween2020/service-worker.js",
-    "static/css/2.8356a6db.chunk.css.map": "/halloween2020/static/css/2.8356a6db.chunk.css.map",
-    "static/css/main.bf832275.chunk.css.map": "/halloween2020/static/css/main.bf832275.chunk.css.map",
-    "static/js/2.1591f922.chunk.js.LICENSE.txt": "/halloween2020/static/js/2.1591f922.chunk.js.LICENSE.txt",
+    "static/css/2.76fddd1f.chunk.css.map": "/halloween2020/static/css/2.76fddd1f.chunk.css.map",
+    "static/css/main.5468bf1a.chunk.css.map": "/halloween2020/static/css/main.5468bf1a.chunk.css.map",
+    "static/js/2.620bcb03.chunk.js.LICENSE.txt": "/halloween2020/static/js/2.620bcb03.chunk.js.LICENSE.txt",
     "static/media/index.css": "/halloween2020/static/media/youmurdererbb_reg.04bc4d70.ttf",
-    "static/media/semantic.less": "/halloween2020/static/media/outline-icons.ef60a4f6.woff"
+    "static/media/semantic.less": "/halloween2020/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/ghost.png": "/halloween2020/static/media/ghost.0c046ed5.png",
+    "static/media/moon.jpg": "/halloween2020/static/media/moon.1060be38.jpg",
+    "static/media/spider6.jpg": "/halloween2020/static/media/spider6.2733ae0a.jpg",
+    "static/media/vampire.jpg": "/halloween2020/static/media/vampire.139947b8.jpg",
+    "static/media/wolf1.png": "/halloween2020/static/media/wolf1.c8c03594.png",
+    "static/media/wolf2.png": "/halloween2020/static/media/wolf2.3c630cd9.png",
+    "static/media/wolf2.jpg": "/halloween2020/static/media/wolf2.dbdd6919.jpg",
+    "static/media/wolf3.png": "/halloween2020/static/media/wolf3.92bcd063.png",
+    "static/media/zombie.jpg": "/halloween2020/static/media/zombie.d43b6334.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.27484d17.js",
-    "static/css/2.8356a6db.chunk.css",
-    "static/js/2.1591f922.chunk.js",
-    "static/css/main.bf832275.chunk.css",
-    "static/js/main.51ddabe8.chunk.js"
+    "static/css/2.76fddd1f.chunk.css",
+    "static/js/2.620bcb03.chunk.js",
+    "static/css/main.5468bf1a.chunk.css",
+    "static/js/main.9005d354.chunk.js"
   ]
 }

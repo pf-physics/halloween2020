@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c638666dd09f07cf6fff18deaabaac2",
+    "revision": "e701b4748dea4f5852e1bc4e3974d2b2",
     "url": "/halloween2020/index.html"
   },
   {
-    "revision": "1bd156ffc1f89a21a575",
-    "url": "/halloween2020/static/css/2.8356a6db.chunk.css"
+    "revision": "63439cacaea237eec36d",
+    "url": "/halloween2020/static/css/2.76fddd1f.chunk.css"
   },
   {
-    "revision": "cd6c868c066e278058b0",
-    "url": "/halloween2020/static/css/main.bf832275.chunk.css"
+    "revision": "8893b61fb5a4fe6f17b2",
+    "url": "/halloween2020/static/css/main.5468bf1a.chunk.css"
   },
   {
-    "revision": "1bd156ffc1f89a21a575",
-    "url": "/halloween2020/static/js/2.1591f922.chunk.js"
+    "revision": "63439cacaea237eec36d",
+    "url": "/halloween2020/static/js/2.620bcb03.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/halloween2020/static/js/2.1591f922.chunk.js.LICENSE.txt"
+    "url": "/halloween2020/static/js/2.620bcb03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd6c868c066e278058b0",
-    "url": "/halloween2020/static/js/main.51ddabe8.chunk.js"
+    "revision": "8893b61fb5a4fe6f17b2",
+    "url": "/halloween2020/static/js/main.9005d354.chunk.js"
   },
   {
     "revision": "9234e0c99832c50b045b",
     "url": "/halloween2020/static/js/runtime-main.27484d17.js"
+  },
+  {
+    "revision": "ce35e3f937bb4c47cf1b19a10c6037a9",
+    "url": "/halloween2020/static/media/Clownoween.ce35e3f9.ttf"
   },
   {
     "revision": "8910d09c871fcdd943df3a68bf676a56",
@@ -56,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/halloween2020/static/media/flags.9c74e172.png"
   },
   {
+    "revision": "0c046ed5c6e59d586e27763446156211",
+    "url": "/halloween2020/static/media/ghost.0c046ed5.png"
+  },
+  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/halloween2020/static/media/icons.0ab54153.woff2"
   },
@@ -74,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/halloween2020/static/media/icons.faff9214.woff"
+  },
+  {
+    "revision": "1060be38db8ba39d43bcfbf17f8ee902",
+    "url": "/halloween2020/static/media/moon.1060be38.jpg"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -96,7 +108,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/halloween2020/static/media/outline-icons.ef60a4f6.woff"
   },
   {
+    "revision": "2733ae0a1c8340642478f8288c5b1737",
+    "url": "/halloween2020/static/media/spider6.2733ae0a.jpg"
+  },
+  {
+    "revision": "139947b8dd0ae76b16c2f4cc14bf3a2d",
+    "url": "/halloween2020/static/media/vampire.139947b8.jpg"
+  },
+  {
+    "revision": "c8c03594ccf3a3be5cb47b1cc0061a26",
+    "url": "/halloween2020/static/media/wolf1.c8c03594.png"
+  },
+  {
+    "revision": "3c630cd90a54bfb788f77b8f9e1b5212",
+    "url": "/halloween2020/static/media/wolf2.3c630cd9.png"
+  },
+  {
+    "revision": "dbdd6919ff42e2dae896c767bc56898f",
+    "url": "/halloween2020/static/media/wolf2.dbdd6919.jpg"
+  },
+  {
+    "revision": "92bcd063a8478dc4f71eebe04c891186",
+    "url": "/halloween2020/static/media/wolf3.92bcd063.png"
+  },
+  {
     "revision": "04bc4d705769d1b9b2eae335871bbb7d",
     "url": "/halloween2020/static/media/youmurdererbb_reg.04bc4d70.ttf"
+  },
+  {
+    "revision": "d43b63349e66d1713f92200c2a8ec2d6",
+    "url": "/halloween2020/static/media/zombie.d43b6334.jpg"
   }
 ]);
