@@ -7,7 +7,7 @@ Website at https://pf-physics.github.io/halloween2020/
 The design is mainly for mobile
 
 Indentity codes:
-spookyscaryundead123 or mysticmagic123
+spookyundead123 or mysticmagic123
 
 Passwords:
 HALLOWEENTIME
